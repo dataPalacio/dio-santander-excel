@@ -38,8 +38,8 @@ Um painel interativo para analisar as vendas de assinaturas do **Xbox Game Pass*
 Ao longo destes projetos, as seguintes competências essenciais em Excel foram desenvolvidas e aplicadas:
 
 * **Análise de Dados**: Uso de **Tabelas Dinâmicas** e **Segmentação de Dados** para criar análises interativas e dinâmicas.
-* **Fórmulas Lógicas e Financeiras**: Implementação de fórmulas complexas para cálculos, simulações e tarefas automatizadas.
-* **Visualização de Dados**: Criação de **dashboards e gráficos** claros e impactantes que facilitam a interpretação de dados complexos.
+* **Fórmulas Lógicas e Financeiras**: Implementação de fórmulas comuns para cálculos e simulações, porém de grande relevância para controle e simulação de investimentos.
+* **Visualização de Dados**: Criação de **dashboards e gráficos** claros e informativos que facilitam a interpretação de dados complexos.
 * **Estruturação de Dados**: Organização de dados de forma limpa e escalável, preparando-os para análise e futuras integrações.
 * **Visão Estratégica para IA**: Todos os projetos foram concebidos com uma perspectiva de futuro, planejando melhorias como:
     * 🤖 **Automação impulsionada por IA** para análise preditiva e execução de tarefas.
